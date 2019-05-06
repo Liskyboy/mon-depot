@@ -1,0 +1,4 @@
+# commentaire
+config.yaml
+/yaml/*
+!/yaml/.gitkeep
