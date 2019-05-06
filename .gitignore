@@ -1,4 +1,4 @@
 # commentaire
 config.yaml
-/yaml/*
-!/yaml/.gitkeep
+/logs/*
+!/logs/.gitkeeps
